@@ -110,7 +110,7 @@ L’équilibrage de charge est un ajout qu’apporte une la majorité des framew
 <a name="chiffrement"></a>
 #### Le chiffrement
 
-Le maillage de service assure le **chiffrement** des données entre les services, permettant de soulager ses derniers de cette charge. Un maillage de service va également chercher à **optimiser les échanges** en utilisant en priorité les connexions déjà existantes. L’implémentation la plus rependue est l’utilisation d’infrastructure PKI.
+Le maillage de service assure le **chiffrement** des données entre les services, permettant de soulager ses derniers de cette charge. Un maillage de service va également chercher à **optimiser les échanges** en utilisant en priorité les connexions déjà existantes. L’implémentation la plus répandue est l’utilisation d’infrastructure PKI.
 
 <a name="observabilite"></a>
 #### L'observabilité
